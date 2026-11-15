@@ -1,0 +1,8 @@
+{
+  "name": "Starbound Outpost: Junior Astronaut Mission Trainer",
+  "description": "A 2.5D resource management and survival adventure for ages 7-12 where young astronauts manage a Lunar or Martian outpost inspired by NASA DONKI space weather, OSDR biology, and Moon/Mars datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
