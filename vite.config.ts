@@ -4,6 +4,7 @@ import path from 'path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
+  base: '/nasa-space-app/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
